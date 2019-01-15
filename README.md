@@ -5,4 +5,4 @@ To run the app install node_modules by running `npm install` then run the expres
 
 Endpoints can be accessed via `localhost:5000/api/v1/*`
 
-Cheatsheet is [here](https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb)
+Cheatsheet is [here](https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb) and [here](https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-part-two-3d7a82b8e00)
